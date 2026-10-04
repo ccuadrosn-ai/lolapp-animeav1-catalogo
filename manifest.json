@@ -1,0 +1,14 @@
+{
+  "id": "animeav1-naruto-catalog",
+  "name": "AnimeAV1 Naruto Catalog",
+  "version": "1.0.0",
+  "description": "Catálogo mínimo - solo Naruto",
+  "type": "catalog",
+  "author": "local",
+  "logo": "https://cdn.animeav1.com/covers/190.jpg",
+  "entry": "index.js",
+  "supportedTypes": ["tv"],
+  "capabilities": ["catalog"],
+  "mode": "vod",
+  "apiVersion": 1
+}
